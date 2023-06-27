@@ -1,0 +1,21 @@
+.container{
+    max-width: 1024px;
+    margin-top:  40px;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    background-color: rgb(255, 197, 38);
+    color: #fff;
+    font-weight: bold;
+    font-style: italic;
+    padding: 20px 0;
+}
+
+button{
+    margin-top: 10px;
+}
+
